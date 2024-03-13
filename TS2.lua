@@ -53,3 +53,11 @@ CarSmoothFollow__.ctor	seg000	0000000000081B30	00000033			R	.	.	.	.	.	.	.
 CarUpgrades__.ctor	seg000	000000000007DF80	00000091			R	.	.	.	.	.	.	.
 
 CatAI__.ctor	seg000	00000000000738C0	00000012			R	.	.	.	.	.	.	.
+
+CodenameAI__.ctor	seg000	0000000000074ED0	00000019			R	.	.	.	.	.	.	.
+
+CompassNavigatorPro.BeaconAnimator__.ctor	seg000	0000000000255130	00000012			R	.	.	.	.	.	.	.
+
+CompassNavigatorPro.CompassProPOI__.ctor	seg000	000000000025D810	00000064			R	.	.	.	.	.	.	.
+
+CompassNavigatorPro.CompassPro__.ctor	seg000	000000000025CF40	000003B7			R	.	.	.	.	.	.	.
