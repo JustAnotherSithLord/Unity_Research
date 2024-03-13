@@ -37,3 +37,11 @@ AlmostEngine.Shadows.ShadowController__.ctor	seg000	000000000028E130	00000048			
 AlmostEngine.Shadows.ShadowManagerAutoQualitySettings__Update	seg000	000000000028E740	00000050			R	.	.	.	.	.	.	.
 
 AlmostEngine.Shadows.ShadowManagerConfig__.ctor	seg000	000000000028E7C0	00000030			R	.	.	.	.	.	.	.
+
+AlmostEngine.Shadows.ShadowManager__.ctor	seg000	000000000028E680	00000099			R	.	.	.	.	.	.	.
+
+AnalogClockScript__.ctor	seg000	0000000000055EE0	0000001D			R	.	.	.	.	.	.	.
+
+Board__.ctor	seg000	000000000002DAD0	00000024			R	.	.	.	.	.	.	.
+
+BreakableObject__.ctor	seg000	0000000000005E80	0000003E			R	.	.	.	.	.	.	.
