@@ -29,3 +29,11 @@ AI__Start	seg000	000000000006DDF0	000003D7			R	.	.	.	.	.	.	.
 ATM_Minigame_Manager__.ctor	seg000	00000000000A56B0	0000001D			R	.	.	.	.	.	.	.
 
 ATM_Object__.ctor	seg000	00000000000A6190	0000001E			R	.	.	.	.	.	.	.
+
+AlmostEngine.Examples.FireLight__.ctor	seg000	000000000028EB60	00000049			R	.	.	.	.	.	.	.
+
+AlmostEngine.Shadows.ShadowController__.ctor	seg000	000000000028E130	00000048			R	.	.	.	.	.	.	.
+
+AlmostEngine.Shadows.ShadowManagerAutoQualitySettings__Update	seg000	000000000028E740	00000050			R	.	.	.	.	.	.	.
+
+AlmostEngine.Shadows.ShadowManagerConfig__.ctor	seg000	000000000028E7C0	00000030			R	.	.	.	.	.	.	.
