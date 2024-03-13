@@ -23,3 +23,9 @@ Config__.ctor	seg000	00000000001BBCA0	000002A8			R	.	.	.	.	.	.	.
 Config__.ctor_1	seg000	00000000001BF970	00000028			R	.	.	.	.	.	.	.
 
 Config__.ctor_101	seg000	00000000001DECD0	000000EE			R	.	.	.	.	.	.	.
+
+Config__.ctor_102	seg000	00000000001DFE50	00000037			R	.	.	.	.	.	.	.
+
+Config__.ctor_105	seg000	00000000001E3820	00000012			R	.	.	.	.	.	.	.
+
+Config__.ctor_3	seg000	00000000001BFC90	0000002D			R	.	.	.	.	.	.	.
