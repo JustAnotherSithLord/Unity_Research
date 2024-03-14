@@ -45,3 +45,9 @@ Config__.ctor_9	seg000	00000000001C11A0	00000036			R	.	.	.	.	.	.	.
 Config__.ctor_98	seg000	00000000001D7EC0	0000007C			R	.	.	.	.	.	.	.
 
 Config__.ctor_99	seg000	00000000001DA840	00000012			R	.	.	.	.	.	.	.
+
+Config__AreAliensRequired	seg000	00000000001C0DA0	00000019			R	.	.	.	.	.	.	.
+
+GameItemPictureBaseConfig__.ctor	seg000	00000000001E1990	00000052			R	.	.	.	.	.	.	.
+
+GeometryCollection__.ctor	seg000	00000000001C09D0	0000001D			R	.	.	.	.	.	.	.
