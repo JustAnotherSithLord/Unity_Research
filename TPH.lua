@@ -63,3 +63,9 @@ StaffCategory__.ctor	seg000	00000000001C33E0	0000002F			R	.	.	.	.	.	.	.
 TH20.AdviceTriggerCashFlowWarning__.ctor	seg000	0000000000015C80	00000028			R	.	.	.	.	.	.	.
 
 TH20.AdviceTriggerLowReputation__.ctor	seg000	0000000000015990	00000028			R	.	.	.	.	.	.	.
+
+TH20.AdviceTriggerMaintenanceCheck__.ctor	seg000	0000000000016DF0	0000002F			R	.	.	.	.	.	.	.
+
+TH20.AdviceTriggerMoreRoomsOfType__.ctor	seg000	00000000000154F0	0000002F			R	.	.	.	.	.	.	.
+
+TH20.AdviceTriggerNeedMoreStaffOfType__.ctor	seg000	0000000000015610	00000030			R	.	.	.	.	.	.	.
