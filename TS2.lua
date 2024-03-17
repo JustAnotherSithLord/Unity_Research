@@ -93,3 +93,9 @@ Destructible__.ctor	seg000	00000000000022F0	00000012			R	.	.	.	.	.	.	.
 DisableFenceOnDistance__.ctor	seg000	0000000000085440	00000012			R	.	.	.	.	.	.	.
 
 DisplayCam__.ctor	seg000	0000000000000440	0000001D			R	.	.	.	.	.	.	.
+
+Dog_Meat__.ctor	seg000	0000000000085610	00000019			R	.	.	.	.	.	.	.
+
+DoorOpen__.ctor	seg000	0000000000055680	00000037			R	.	.	.	.	.	.	.
+
+DoorTexts__.ctor	seg000	00000000002BB290	00000028			R	.	.	.	.	.	.	.
