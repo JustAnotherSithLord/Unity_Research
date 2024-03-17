@@ -105,3 +105,9 @@ Door__.ctor	seg000	0000000000086B40	00000057			R	.	.	.	.	.	.	.
 DroneManager__.ctor	seg000	00000000000A9220	0000002F			R	.	.	.	.	.	.	.
 
 DroneShopScript__.ctor	seg000	00000000000CCE70	0000002F			R	.	.	.	.	.	.	.
+
+EngineExtras__.ctor	seg000	00000000002BF400	000000A8			R	.	.	.	.	.	.	.
+
+Engine__.ctor	seg000	00000000002BF320	000000B3			R	.	.	.	.	.	.	.
+
+FogControl__.ctor	seg000	0000000000006BD0	0000001D			R	.	.	.	.	.	.	.
