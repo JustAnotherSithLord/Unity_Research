@@ -99,3 +99,9 @@ Dog_Meat__.ctor	seg000	0000000000085610	00000019			R	.	.	.	.	.	.	.
 DoorOpen__.ctor	seg000	0000000000055680	00000037			R	.	.	.	.	.	.	.
 
 DoorTexts__.ctor	seg000	00000000002BB290	00000028			R	.	.	.	.	.	.	.
+
+Door__.ctor	seg000	0000000000086B40	00000057			R	.	.	.	.	.	.	.
+
+DroneManager__.ctor	seg000	00000000000A9220	0000002F			R	.	.	.	.	.	.	.
+
+DroneShopScript__.ctor	seg000	00000000000CCE70	0000002F			R	.	.	.	.	.	.	.
