@@ -81,3 +81,9 @@ TH20.AdviceTriggerPatientAttributeCheck__.ctor	seg000	0000000000016270	0000003A	
 TH20.AdviceTriggerPatientDeath__.ctor	seg000	0000000000016800	00000019			R	.	.	.	.	.	.	.
 
 TH20.AdviceTriggerPatientEnvironmentCheck__.ctor	seg000	0000000000016390	0000003A			R	.	.	.	.	.	.	.
+
+TH20.Advisor__.ctor	seg000	00000000000177F0	000000E2			R	.	.	.	.	.	.	.
+
+TH20.AmbulanceConfig__.ctor	seg000	000000000001C7C0	0000007B			R	.	.	.	.	.	.	.
+
+TH20.Ambulance__.ctor	seg000	000000000001C9D0	0000004E			R	.	.	.	.	.	.	.
