@@ -87,3 +87,9 @@ TH20.Advisor__.ctor	seg000	00000000000177F0	000000E2			R	.	.	.	.	.	.	.
 TH20.AmbulanceConfig__.ctor	seg000	000000000001C7C0	0000007B			R	.	.	.	.	.	.	.
 
 TH20.Ambulance__.ctor	seg000	000000000001C9D0	0000004E			R	.	.	.	.	.	.	.
+
+TH20.Ambulance__ClearEmergency	seg000	000000000001CE50	00000030			R	.	.	.	.	.	.	.
+
+TH20.Ambulance__GetHighestSpeedFromStaff	seg000	000000000001CF10	00000006			R	.	.	.	.	.	.	.
+
+TH20.App__.ctor	seg000	00000000000201B0	00000D85			R	.	.	.	.	.	.	.
