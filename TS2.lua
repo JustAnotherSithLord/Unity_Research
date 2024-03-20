@@ -117,3 +117,9 @@ FreeFlyCamera__.ctor	seg000	000000000004B4B0	0000008F			R	.	.	.	.	.	.	.
 FreelookCamera__.ctor	seg000	000000000004B8C0	00000060			R	.	.	.	.	.	.	.
 
 GameManager__.ctor	seg000	000000000008BFC0	00000034			R	.	.	.	.	.	.	.
+
+GameManager__AddXP	seg000	000000000008AD60	00000046			R	.	.	.	.	.	.	.
+
+GamingIsLove.Footsteps.FootIK__.ctor	seg000	000000000022ECB0	000000A2			R	.	.	.	.	.	.	.
+
+GarageDoorOpen__.ctor	seg000	0000000000055560	00000033			R	.	.	.	.	.	.	.
