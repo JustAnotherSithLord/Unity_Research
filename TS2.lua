@@ -123,3 +123,9 @@ GameManager__AddXP	seg000	000000000008AD60	00000046			R	.	.	.	.	.	.	.
 GamingIsLove.Footsteps.FootIK__.ctor	seg000	000000000022ECB0	000000A2			R	.	.	.	.	.	.	.
 
 GarageDoorOpen__.ctor	seg000	0000000000055560	00000033			R	.	.	.	.	.	.	.
+
+GuardAI__.ctor	seg000	000000000008E900	0000001D			R	.	.	.	.	.	.	.
+
+GuardAI__HeardNoise	seg000	000000000008DBA0	000000DC			R	.	.	.	.	.	.	.
+
+GuardAI__HeardNoiseObject	seg000	000000000008DB50	00000048			R	.	.	.	.	.	.	.
