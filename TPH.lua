@@ -93,3 +93,9 @@ TH20.Ambulance__ClearEmergency	seg000	000000000001CE50	00000030			R	.	.	.	.	.	.	
 TH20.Ambulance__GetHighestSpeedFromStaff	seg000	000000000001CF10	00000006			R	.	.	.	.	.	.	.
 
 TH20.App__.ctor	seg000	00000000000201B0	00000D85			R	.	.	.	.	.	.	.
+
+TH20.ArrivalMethodVehicle__.ctor	seg000	00000000000D6040	00000038			R	.	.	.	.	.	.	.
+
+TH20.ArrivalTimePortalComponent__.ctor	seg000	00000000000D6AD0	00000028			R	.	.	.	.	.	.	.
+
+TH20.CareerStatsManager__.cctor	seg000	000000000010D230	000000DF			R	.	.	.	.	.	.	.
