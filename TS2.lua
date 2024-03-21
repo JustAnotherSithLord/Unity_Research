@@ -135,3 +135,9 @@ GuardAI__StartChase	seg000	000000000008DD50	00000022			R	.	.	.	.	.	.	.
 HackingLaptop__.ctor	seg000	000000000008EC60	00000019			R	.	.	.	.	.	.	.
 
 HackingLaptop__OnEnable	seg000	000000000008E930	00000067			R	.	.	.	.	.	.	.
+
+HeavyItemsShed__.ctor	seg000	000000000008F660	0000000F			R	.	.	.	.	.	.	.
+
+HidingSpot__.ctor	seg000	0000000000090910	0000003A			R	.	.	.	.	.	.	.
+
+HouseDisableOnDistance__.ctor	seg000	00000000000912F0	0000002F			R	.	.	.	.	.	.	.
