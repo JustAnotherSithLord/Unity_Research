@@ -141,3 +141,9 @@ HeavyItemsShed__.ctor	seg000	000000000008F660	0000000F			R	.	.	.	.	.	.	.
 HidingSpot__.ctor	seg000	0000000000090910	0000003A			R	.	.	.	.	.	.	.
 
 HouseDisableOnDistance__.ctor	seg000	00000000000912F0	0000002F			R	.	.	.	.	.	.	.
+
+ImpactDeformable__.ctor	seg000	000000000004EA20	00000048			R	.	.	.	.	.	.	.
+
+Impacts__.ctor	seg000	00000000002BF590	0000005F			R	.	.	.	.	.	.	.
+
+InfoBubble__.ctor	seg000	00000000000DAA10	00000028			R	.	.	.	.	.	.	.
